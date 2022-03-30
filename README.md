@@ -1,4 +1,4 @@
-# mouse-fatigue-detection
+# Mouse Fatigue Detection
 
 To detect fluctuating levels of muscle pain in different muscle groups, we will use electromyography EMG and galvanic skin response (GSR) measurements denoting EMG of muscle pain in the forearm. 
 
