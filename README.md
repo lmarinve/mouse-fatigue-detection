@@ -21,7 +21,9 @@ After completing the data set, We built an artificial neural network model (ANN)
 As labels, We employed the empirically assigned muscle soreness classes for each data record while collecting data:
 
 Relaxed
+
 Tense
+
 Exhausted
 
 After training and testing the neural network model, We converted it from a TensorFlow Keras H5 model to a C array (.h file) to execute the model on Wio Terminal. 
